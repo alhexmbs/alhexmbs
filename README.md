@@ -81,12 +81,12 @@ We welcome contributions to improve this project! Please follow these steps:
 Please read the [CONTRIBUTING.md](CONTRIBUTING.md) file for more details on our code of conduct and the process for submitting pull requests.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is not licensed
 
 ## Acknowledgements
 - Photo by [Photographer's Name](https://unsplash.com/@photographer) on Unsplash
 
 ## Contact
-If you have any questions or suggestions, feel free to open an issue or contact me directly at [your_email@example.com](mailto:your_email@example.com).
+If you have any questions or suggestions, feel free to open an issue or contact me directly at [alhexmbs@gmail.com](mailto:alhexmbs@gmail.com).
 
 Thank you for checking out the CRUD Web Application project! We hope you find it useful and educational.
