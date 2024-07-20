@@ -21,7 +21,7 @@ Welcome to the CRUD Web Application project! This project demonstrates a simple 
 ### Steps
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/tu_usuario/crud-web-app.git
+    git clone git@github.com:alhexmbs/crud_web_app.git
     cd crud-web-app
     ```
 
