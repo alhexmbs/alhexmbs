@@ -71,7 +71,7 @@ Welcome to the CRUD Web Application project! This project demonstrates a simple 
    - Use the web interface to create, read, update, and delete records.
 
 ## Contributing
-We welcome contributions to improve this project! Please follow these steps:
+I welcome contributions to improve this project! Please follow these steps:
 1. Fork the repository.
 2. Create a new branch: `git checkout -b feature/your-feature`.
 3. Commit your changes: `git commit -m 'Add some feature'`.
@@ -89,4 +89,4 @@ This project is not licensed
 ## Contact
 If you have any questions or suggestions, feel free to open an issue or contact me directly at [alhexmbs@gmail.com](mailto:alhexmbs@gmail.com).
 
-Thank you for checking out the CRUD Web Application project! We hope you find it useful and educational.
+Thank you for checking out the CRUD Web Application project! I hope you find it useful and educational.
