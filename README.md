@@ -12,6 +12,13 @@
 - 👯 I’m looking to collaborate on ...
 - 📫 How to reach me: 
 
+## Tech stack
+- 👩🏻‍💻 I'm a Systems Engineering student at the Santo Toribio de Mogrovejo Catholic University in Peru
+- 🔭 I’m currently working on personal projects
+- 🌱 I’m currently learning Kotlin
+- 👯 I’m looking to collaborate on ...
+- 📫 How to reach me: 
+
 ## My GitHub activity
 
 <img src="https://github-readme-stats.vercel.app/api?username=alhexmbs&include_all_commits=true&show_icons=true&theme=github_dark" alt="GitHub Stats">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=alhexmbs&theme=blueberry_duo" alt="GitHub Streak">
