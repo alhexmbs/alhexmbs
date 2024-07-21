@@ -9,16 +9,17 @@
 - 👩🏻‍💻 I'm a Systems Engineering student at the Santo Toribio de Mogrovejo Catholic University in Peru
 - 🔭 I’m currently working on personal projects
 - 🌱 I’m currently learning Kotlin, Python and Backend development
-- 📫 How to reach me: 
+- 📫 How to reach me: <a href ="mailto:alhexmbs@gmail.com">![Gmail Badge](https://img.shields.io/badge/-alhexmbs@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alhexmbs@gmail.com)</a>
 
 ## Tech stack
 <p align="center">
   <b>Languages</b>
   <br>
   <br>
-  <a href="https://www.java.com" target="_blank">
+  <a href="https://docs.oracle.com/en/java/" target="_blank">
     <code><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" height="40"/></code>
   </a>
+
   <a href="https://docs.python.org/3/" target="_blank">
     <code><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" height="40"/></code>
   </a>
