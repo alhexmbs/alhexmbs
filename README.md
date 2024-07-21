@@ -17,10 +17,10 @@
   <br>
   <br>
   <a href="https://www.java.com" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/java.svg" alt="Java" height="40"/></code>
+    <code><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" height="40"/></code>
   </a>
-  <a href="https://go.dev" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/golang.svg" alt="Golang" height="40"/></code>
+  <a href="https://docs.python.org/3/" target="_blank">
+    <code><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" height="40"/></code>
   </a>
 </p>
 
