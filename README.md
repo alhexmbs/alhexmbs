@@ -6,10 +6,12 @@
 </p>
 
 # 🕵️‍♀️ A little bit about me
-- 🎓 I'm a Systems Engineering student at the Santo Toribio de Mogrovejo Catholic University in Peru
-- 👩🏻‍💻 I am currently working on personal projects and open to job offers
-- 🌱 I’m currently learning Kotlin, Python and Backend development
-- 📫 Get in touch with me: <a href="mailto:alhexmbs@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-alhexmbs@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail Badge"></a>
+<ul style="font-size: 20px;">
+  <li>🎓 I'm a Systems Engineering student at the Santo Toribio de Mogrovejo Catholic University in Peru</li>
+  <li>👩🏻‍💻 I am currently working on personal projects and open to job offers</li>
+  <li>🌱 I’m currently learning Kotlin, Python and Backend development</li>
+  <li>📫 Get in touch with me: <a href="mailto:alhexmbs@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-alhexmbs@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail Badge"></a></li>
+</ul>
 
 # 🛠️ Tech stack
 <p align="center">
@@ -72,7 +74,7 @@
   </a>
 </p>
 
-## My GitHub activity
+# :octocat: My GitHub activity
 
 <img src="https://github-readme-stats.vercel.app/api?username=alhexmbs&include_all_commits=true&show_icons=true&theme=github_dark" alt="GitHub Stats">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=alhexmbs&theme=blueberry_duo" alt="GitHub Streak">
 |---|---|
