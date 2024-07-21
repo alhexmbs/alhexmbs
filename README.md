@@ -6,6 +6,7 @@
 </p>
 
 ## A little about me
+- 👩🏻‍💻 I'm a Systems Engineering student at the Santo Toribio de Mogrovejo Catholic University in Peru
 - 🔭 I’m currently working on personal projects
 - 🌱 I’m currently learning Kotlin
 - 👯 I’m looking to collaborate on ...
