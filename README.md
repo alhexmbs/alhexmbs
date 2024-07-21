@@ -56,17 +56,17 @@
   <br>
   <br>
   <a href="https://www.postgresql.org/docs/" target="_blank">
-    <code><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="Postgresql" height="40"/></code>
+    <code><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="Postgresql" height="50"/></code>
   </a>
   <br>
   <a href="https://www.djangoproject.com/" target="_blank">
-    <code><img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="Django" height="40"/></code>
+    <code><img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="Django" height="50"/></code>
   </a>
   <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank">
-    <code><img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="Flask" height="40"/></code>
+    <code><img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="Flask" height="50"/></code>
   </a>
   <a href="https://dev.mysql.com/doc/" target="_blank">
-    <code><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" height="40"/></code>
+    <code><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" height="50"/></code>
   </a>
 </p>
 
