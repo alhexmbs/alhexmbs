@@ -17,15 +17,15 @@
   <br>
   <br>
   <a href="https://docs.oracle.com/en/java/" target="_blank">
-    <code><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" height="40"/></code>
+    <code><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" height="50"/></code>
   </a>
 
   <a href="https://docs.python.org/3/" target="_blank">
-    <code><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" height="40"/></code>
+    <code><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" height="50"/></code>
   </a>
 
   <a href="https://learn.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank">
-    <code><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" height="40"/></code>
+    <code><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" height="50"/></code>
   </a>
   
 </p>
@@ -35,16 +35,16 @@
   <br>
   <br>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <code><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" height="40"/></code>
+    <code><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" height="50"/></code>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <code><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" height="40"/></code>
+    <code><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" height="50"/></code>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <code><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="40"/></code>
+    <code><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="50"/></code>
   </a>
   <a href="https://www.figma.com/" target="_blank">
-    <code><img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma" height="40"/></code>
+    <code><img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma" height="50"/></code>
   </a>
 </p>
 
