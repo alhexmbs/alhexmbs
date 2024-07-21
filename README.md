@@ -6,10 +6,10 @@
 </p>
 
 ## A little about me
-- 👩🏻‍💻 I'm a Systems Engineering student at the Santo Toribio de Mogrovejo Catholic University in Peru
-- 🔭 I’m currently working on personal projects
+- 🏫 I'm a Systems Engineering student at the Santo Toribio de Mogrovejo Catholic University in Peru
+- 👩🏻‍💻 I’m currently working on personal projects
 - 🌱 I’m currently learning Kotlin, Python and Backend development
-- 📫 How to reach me: <a href ="mailto:alhexmbs@gmail.com">![Gmail Badge](https://img.shields.io/badge/-alhexmbs@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alhexmbs@gmail.com)</a>
+- 📫 Get in touch with me: <a href ="mailto:alhexmbs@gmail.com">![Gmail Badge](https://img.shields.io/badge/-alhexmbs@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alhexmbs@gmail.com)</a>
 
 ## Tech stack
 <p align="center">
@@ -22,6 +22,48 @@
 
   <a href="https://docs.python.org/3/" target="_blank">
     <code><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" height="40"/></code>
+  </a>
+
+  <a href="https://learn.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank">
+    <code><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" height="40"/></code>
+  </a>
+  
+</p>
+
+<p align="center">
+  <b>Frontend</b>
+  <br>
+  <br>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <code><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" height="40"/></code>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <code><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" height="40"/></code>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <code><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="40"/></code>
+  </a>
+</p>
+
+<br>
+<br>
+
+<p align="center">
+  <b>Backend</b>
+  <br>
+  <br>
+  <a href="https://nodejs.org" target="_blank">
+    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/node.svg" alt="NodeJS" height="40"/></code>
+  </a>
+  <br>
+  <a href="https://expressjs.com" target="_blank">
+    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/express.svg" alt="ExpressJS" height="40"/></code>
+  </a>
+  <a href="https://nestjs.com" target="_blank">
+    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/nest.svg" alt="NestJS" height="40"/></code>
+  </a>
+  <a href="https://spring.io" target="_blank">
+    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/spring.svg" alt="Spring" height="40"/></code>
   </a>
 </p>
 
