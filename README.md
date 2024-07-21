@@ -5,7 +5,7 @@
   </a>
 </p>
 
-## A little about me
+## A little bit about me
 - 🏫 I'm a Systems Engineering student at the Santo Toribio de Mogrovejo Catholic University in Peru
 - 👩🏻‍💻 I’m currently working on personal projects
 - 🌱 I’m currently learning Kotlin, Python and Backend development
@@ -43,6 +43,9 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <code><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="40"/></code>
   </a>
+  <a href="https://www.figma.com/" target="_blank">
+    <code><img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma" height="40"/></code>
+  </a>
 </p>
 
 <br>
@@ -52,18 +55,18 @@
   <b>Backend</b>
   <br>
   <br>
-  <a href="https://nodejs.org" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/node.svg" alt="NodeJS" height="40"/></code>
+  <a href="https://www.postgresql.org/docs/" target="_blank">
+    <code><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="Postgresql" height="40"/></code>
   </a>
   <br>
-  <a href="https://expressjs.com" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/express.svg" alt="ExpressJS" height="40"/></code>
+  <a href="https://www.djangoproject.com/" target="_blank">
+    <code><img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="Django" height="40"/></code>
   </a>
-  <a href="https://nestjs.com" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/nest.svg" alt="NestJS" height="40"/></code>
+  <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank">
+    <code><img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="Flask" height="40"/></code>
   </a>
-  <a href="https://spring.io" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/spring.svg" alt="Spring" height="40"/></code>
+  <a href="https://dev.mysql.com/doc/" target="_blank">
+    <code><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" height="40"/></code>
   </a>
 </p>
 
