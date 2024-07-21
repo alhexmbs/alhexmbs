@@ -12,11 +12,17 @@
 - 📫 How to reach me: 
 
 ## Tech stack
-- 👩🏻‍💻 I'm a Systems Engineering student at the Santo Toribio de Mogrovejo Catholic University in Peru
-- 🔭 I’m currently working on personal projects
-- 🌱 I’m currently learning Kotlin
-- 👯 I’m looking to collaborate on ...
-- 📫 How to reach me: 
+<p align="center">
+  <b>Languages</b>
+  <br>
+  <br>
+  <a href="https://www.java.com" target="_blank">
+    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/java.svg" alt="Java" height="40"/></code>
+  </a>
+  <a href="https://go.dev" target="_blank">
+    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/golang.svg" alt="Golang" height="40"/></code>
+  </a>
+</p>
 
 ## My GitHub activity
 
