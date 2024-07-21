@@ -6,7 +6,7 @@
 </p>
 
 # 🕵️‍♀️ A little bit about me
-<ul style="font-size: 20px;">
+<ul style="font-size: 80px;">
   <li>🎓 I'm a Systems Engineering student at the Santo Toribio de Mogrovejo Catholic University in Peru</li>
   <li>👩🏻‍💻 I am currently working on personal projects and open to job offers</li>
   <li>🌱 I’m currently learning Kotlin, Python and Backend development</li>
