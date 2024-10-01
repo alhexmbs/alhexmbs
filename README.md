@@ -20,8 +20,6 @@
     <code><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" height="50"/></code>
   </a>
 
-  
-
   <a href="https://docs.python.org/3/" target="_blank">
     <code><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" height="50"/></code>
   </a>
@@ -51,6 +49,19 @@
 
 <p align="center">
   <b>Backend</b>
+  <br>
+  <br>
+  <a href="https://www.postgresql.org/docs/" target="_blank">
+    <code><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="NodeJs" height="50"/></code>
+  </a>
+  <br>
+</p>
+
+<br>
+<br>
+
+<p align="center">
+  <b>Database</b>
   <br>
   <br>
   <a href="https://www.postgresql.org/docs/" target="_blank">
