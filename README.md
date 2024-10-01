@@ -25,10 +25,6 @@
   <a href="https://docs.python.org/3/" target="_blank">
     <code><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" height="50"/></code>
   </a>
-
-  <a href="https://learn.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank">
-    <code><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" height="50"/></code>
-  </a>
   
 </p>
 
