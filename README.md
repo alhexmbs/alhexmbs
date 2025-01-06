@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/736x/ae/56/d1/ae56d10f023f455739a635e435732a94.jpg" alt="img" style="width: 100%;">
+<img src="https://i.pinimg.com/originals/d8/82/8d/d8828d2d6254273a617e6337d292303d.gif" alt="img" style="width: 100%;">
 <h1 align="center">Hi, I'm Alex Burga <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg" target="_blank">
