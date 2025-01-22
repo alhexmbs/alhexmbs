@@ -61,6 +61,9 @@
   <a href="https://expressjs.com/" target="_blank">
     <code><img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="Express" height="50"/></code>
   </a>
+  <a href="https://flask.palletsprojects.com/en/stable/" target="_blank">
+    <code><img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" alt="Flask" height="50"/></code>
+  </a>
   <br>
 </p>
 
@@ -68,7 +71,7 @@
 <br>
 
 <p align="center">
-  <b>Database</b>
+  <b>Databases</b>
   <br>
   <br>
   <a href="https://www.postgresql.org/docs/" target="_blank">
@@ -78,8 +81,8 @@
   <a href="https://dev.mysql.com/doc/" target="_blank">
     <code><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" height="50"/></code>
   </a>
-  <a href="https://www.djangoproject.com/" target="_blank">
-    <code><img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="Django" height="50"/></code>
+  <a href="https://www.mongodb.com/docs/" target="_blank">
+    <code><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="50"/></code>
   </a>
   
 </p>
