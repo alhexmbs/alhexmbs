@@ -55,8 +55,11 @@
   <b>Backend</b>
   <br>
   <br>
-  <a href="https://www.postgresql.org/docs/" target="_blank">
+  <a href="https://nodejs.org/docs/latest/api/" target="_blank">
     <code><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJs" height="50"/></code>
+  </a>
+  <a href="https://expressjs.com/" target="_blank">
+    <code><img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="Express" height="50"/></code>
   </a>
   <br>
 </p>
