@@ -62,7 +62,7 @@
     <code><img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" alt="Express" height="50"/></code>
   </a>
   <a href="https://flask.palletsprojects.com/en/stable/" target="_blank">
-    <code><img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" alt="Flask" height="50"/></code>
+    <code><img src="https://www.pngfind.com/pngs/m/128-1286693_flask-framework-logo-svg-hd-png-download.png" alt="Flask" height="50"/></code>
   </a>
   <br>
 </p>
