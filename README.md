@@ -46,6 +46,9 @@
   <a href="https://www.figma.com/" target="_blank">
     <code><img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma" height="50"/></code>
   </a>
+  <a href="https://nextjs.org/docs" target="_blank">
+    <code><img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="NextJS" height="50"/></code>
+  </a>
 </p>
 
 <br>
