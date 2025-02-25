@@ -20,10 +20,7 @@
   <b>Languages</b>
   <br>
   <br>
-  <a href="https://docs.oracle.com/en/java/" target="_blank">
-    <code><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" height="50"/></code>
-  </a>
-
+  
   <a href="https://docs.python.org/3/" target="_blank">
     <code><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" height="50"/></code>
   </a>
