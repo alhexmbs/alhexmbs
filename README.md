@@ -97,6 +97,10 @@
   <a href="https://www.mongodb.com/docs/" target="_blank">
     <code><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="50"/></code>
   </a>
+  <br>
+  <a href="https://learn.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver16" target="_blank">
+    <code><img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" alt="SQL Server" height="50"/></code>
+  </a>
   
 </p>
 
