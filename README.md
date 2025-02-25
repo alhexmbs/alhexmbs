@@ -50,6 +50,9 @@
   <a href="https://www.figma.com/" target="_blank">
     <code><img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma" height="50"/></code>
   </a>
+  <a href="https://react.dev/" target="_blank">
+    <code><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React" height="50"/></code>
+  </a>
   <a href="https://nextjs.org/docs" target="_blank">
     <code><img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="NextJS" height="50"/></code>
   </a>
@@ -70,6 +73,9 @@
   </a>
   <a href="https://flask.palletsprojects.com/en/stable/" target="_blank">
     <code><img src="https://www.pngfind.com/pngs/m/128-1286693_flask-framework-logo-svg-hd-png-download.png" alt="Flask" height="50"/></code>
+  </a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/" target="_blank">
+    <code><img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt="DotNetCore" height="50"/></code>
   </a>
   <br>
 </p>
