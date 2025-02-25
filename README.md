@@ -28,6 +28,10 @@
     <code><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" height="50"/></code>
   </a>
   
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+    <code><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="Csharp" height="50"/></code>
+  </a>
+  
 </p>
 
 <p align="center">
