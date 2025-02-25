@@ -20,6 +20,9 @@
   <b>Languages</b>
   <br>
   <br>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <code><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="50"/></code>
+  </a>
   
   <a href="https://docs.python.org/3/" target="_blank">
     <code><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" height="50"/></code>
@@ -41,9 +44,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
     <code><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" height="50"/></code>
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <code><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="50"/></code>
-  </a>
+  
   <a href="https://www.figma.com/" target="_blank">
     <code><img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma" height="50"/></code>
   </a>
