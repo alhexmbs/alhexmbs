@@ -92,7 +92,8 @@
 ## :octocat: My GitHub Activity
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=alhexmbs&include_all_commits=true&show_icons=true&theme=github_dark" alt="GitHub Stats">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alhexmbs&theme=blueberry_duo" alt="GitHub Streak">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alhexmbs&layout=compact&theme=github_dark" alt="Top Languages">
+<img src="https://github-readme-stats.vercel.app/api?username=alhexmbs&include_all_commits=true&show_icons=true&theme=github_dark" alt="GitHub Stats">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=alhexmbs&theme=blueberry_duo" alt="GitHub Streak">
+|---|---|
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alhexmbs&layout=compact&theme=github_dark" alt="Top Languages">|
+
 </p>
