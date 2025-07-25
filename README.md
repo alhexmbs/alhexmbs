@@ -19,19 +19,19 @@
 
 <div align="center">
 
-### Programming Languages
+### Programming languages
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,cs" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cs" alt="Languages" />
 </p>
 
-### Frontend Development
+### Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,vue,figma" alt="Frontend" />
 </p>
 
-### Backend Development
+### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,dotnet" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring,dotnet" alt="Backend" />
 </p>
 
 ### Databases
@@ -51,7 +51,7 @@
 
 ### Tools & Others
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,aws,docker" alt="Tools" />
 </p>
 
 </div>
