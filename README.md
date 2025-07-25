@@ -21,7 +21,7 @@
 
 ### Programming languages
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cs" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cs,go" alt="Languages" />
 </p>
 
 ### Frontend
