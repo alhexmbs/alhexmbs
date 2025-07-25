@@ -46,8 +46,8 @@
 ## 📊 GitHub activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alhexmbs&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alhexmbs&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" alt="Most Used Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=alhexmbs&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117" alt="GitHub stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alhexmbs&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" alt="Most used languages" height="180"/>
 </div>
 
 
