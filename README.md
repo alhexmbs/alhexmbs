@@ -49,7 +49,7 @@
   <img src="https://skillicons.dev/icons?i=sklearn" alt="Scikit-learn" />
 </p>
 
-### Tools & Others
+### Tools & others
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,postman,aws,docker" alt="Tools" />
 </p>
