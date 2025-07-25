@@ -69,8 +69,8 @@
   <a href="https://expressjs.com/" target="_blank">
     <code><img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" alt="Express" height="50"/></code>
   </a>
-  <a href="https://flask.palletsprojects.com/en/stable/" target="_blank">
-    <code><img src="https://www.pngfind.com/pngs/m/128-1286693_flask-framework-logo-svg-hd-png-download.png" alt="Flask" height="50"/></code>
+  <a href="https://docs.nestjs.com/" target="_blank">
+    <code><img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original-wordmark.svg" alt="NestJS" height="50"/></code>
   </a>
   <a href="https://learn.microsoft.com/en-us/dotnet/" target="_blank">
     <code><img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt="DotNetCore" height="50"/></code>
