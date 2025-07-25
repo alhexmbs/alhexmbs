@@ -40,6 +40,16 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="48" height="48"/>
 </p>
 
+### Data Science & Analytics
+<p>
+  <img src="https://skillicons.dev/icons?i=sklearn" alt="Scikit-learn" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="Pandas" width="48" height="48"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="NumPy" width="48" height="48"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="48" height="48"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="48" height="48"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="48" height="48"/>
+</p>
+
 ### Tools & Others
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Tools" />
