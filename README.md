@@ -15,33 +15,37 @@
 - 🌱 I'm currently developing backend projects in NestJS and learning some Go
 - 📫 Get in touch with me: <a href="mailto:alhexmbs@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-alhexmbs@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail Badge"></a>
 
-## 🛠️ Tech stack
+## 🛠️ Tech Stack
 
-### Programming languages
-<p align="left">
+<div align="center">
+
+### Programming Languages
+<p>
   <img src="https://skillicons.dev/icons?i=js,ts,python,cs" alt="Languages" />
 </p>
 
-### Frontend
-<p align="left">
+### Frontend Development
+<p>
   <img src="https://skillicons.dev/icons?i=html,css,vue,figma" alt="Frontend" />
 </p>
 
-### Backend
-<p align="left">
+### Backend Development
+<p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,dotnet" alt="Backend" />
 </p>
 
 ### Databases
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb" alt="Databases" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="48" height="48"/>
 </p>
 
-### Tools & others
-<p align="left">
+### Tools & Others
+<p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Tools" />
 </p>
+
+</div>
 
 ## 📊 GitHub activity
 
