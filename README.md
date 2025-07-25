@@ -12,22 +12,22 @@
 ## 🕵️‍♀️ A little bit about me
 - 🎓 I'm a Systems Engineering student at the Santo Toribio de Mogrovejo Catholic University in Peru
 - 👩🏻‍💻 I am currently working on personal projects and open to job offers
-- 🌱 I'm currently developing backend projects in ExpressJS
+- 🌱 I'm currently developing backend projects in NestJS and learning some Go
 - 📫 Get in touch with me: <a href="mailto:alhexmbs@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-alhexmbs@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail Badge"></a>
 
 ## 🛠️ Tech Stack
 
-### Programming Languages
+### Programming languages
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,python,cs" alt="Languages" />
 </p>
 
-### Frontend Development
+### Frontend
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,vue,figma" alt="Frontend" />
 </p>
 
-### Backend Development
+### Backend
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,dotnet" alt="Backend" />
 </p>
@@ -38,18 +38,18 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="48" height="48"/>
 </p>
 
-### Tools & Others
+### Tools & others
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Tools" />
 </p>
 
-## 📊 GitHub Activity
+## 📊 GitHub activity
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alhexmbs&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alhexmbs&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" alt="Most Used Languages" height="180"/>
 </div>
----
+
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=alhexmbs&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
