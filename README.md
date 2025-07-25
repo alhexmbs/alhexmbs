@@ -15,7 +15,7 @@
 - 🌱 I'm currently developing backend projects in NestJS and learning some Go
 - 📫 Get in touch with me: <a href="mailto:alhexmbs@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-alhexmbs@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail Badge"></a>
 
-## 🛠️ Tech Stack
+## 🛠️ Tech stack
 
 <div align="center">
 
@@ -40,7 +40,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="48" height="48"/>
 </p>
 
-### Data Science & Analytics
+### Data science & analytics
 <p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="48" height="48"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="Pandas" width="48" height="48"/>
