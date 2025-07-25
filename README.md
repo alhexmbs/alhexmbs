@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/d8/82/8d/d8828d2d6254273a617e6337d292303d.gif" alt="img" width="100%" style="border-radius: 30px;">
+  <img src="https://i.pinimg.com/originals/d8/82/8d/d8828d2d6254273a617e6337d292303d.gif" alt="Header Banner" width="100%" style="border-radius: 30px;">
 </div>
 
 <h1 align="center">Hi, I'm Alex Burga <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
@@ -15,95 +15,47 @@
 - 🌱 I'm currently developing backend projects in ExpressJS
 - 📫 Get in touch with me: <a href="mailto:alhexmbs@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-alhexmbs@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail Badge"></a>
 
-## 🛠️ Tech stack
-<p align="center">
-  <b>Languages</b>
-  <br>
-  <br>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <code><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="50"/></code>
-  </a>
+## 🛠️ Tech Stack
 
-  <a href="https://www.typescriptlang.org/docs/" target="_blank">
-    <code><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript" height="50"/></code>
-  </a>
-  
-  <a href="https://docs.python.org/3/" target="_blank">
-    <code><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" height="50"/></code>
-  </a>
-  
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-    <code><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="Csharp" height="50"/></code>
-  </a>
-  
+### Programming Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,cs" alt="Languages" />
 </p>
 
-<p align="center">
-  <b>Frontend</b>
-  <br>
-  <br>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <code><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" height="50"/></code>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <code><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" height="50"/></code>
-  </a>
-  <a href="https://www.figma.com/" target="_blank">
-    <code><img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma" height="50"/></code>
-  </a>
-  <a href="https://vuejs.org/" target="_blank">
-    <code><img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" alt="VueJS" height="50"/></code>
-  </a>
+### Frontend Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,vue,figma" alt="Frontend" />
 </p>
 
-<br>
-<br>
-
-<p align="center">
-  <b>Backend</b>
-  <br>
-  <br>
-  <a href="https://nodejs.org/docs/latest/api/" target="_blank">
-    <code><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJs" height="50"/></code>
-  </a>
-  <a href="https://expressjs.com/" target="_blank">
-    <code><img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" alt="Express" height="50"/></code>
-  </a>
-  <a href="https://docs.nestjs.com/" target="_blank">
-    <code><img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original-wordmark.svg" alt="NestJS" height="50"/></code>
-  </a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/" target="_blank">
-    <code><img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt="DotNetCore" height="50"/></code>
-  </a>
-  <br>
+### Backend Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,dotnet" alt="Backend" />
 </p>
 
-<br>
-<br>
-
-<p align="center">
-  <b>Databases</b>
-  <br>
-  <br>
-  <a href="https://www.postgresql.org/docs/" target="_blank">
-    <code><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="Postgresql" height="50"/></code>
-  </a>
-  <br>
-  <a href="https://dev.mysql.com/doc/" target="_blank">
-    <code><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" height="50"/></code>
-  </a>
-  <a href="https://www.mongodb.com/docs/" target="_blank">
-    <code><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="50"/></code>
-  </a>
-  <br>
-  <a href="https://learn.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver16" target="_blank">
-    <code><img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" alt="SQL Server" height="50"/></code>
-  </a>
-  
+### Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb" alt="Databases" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="48" height="48"/>
 </p>
 
-## :octocat: My GitHub activity
+### Tools & Others
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Tools" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=alhexmbs&include_all_commits=true&show_icons=true&theme=github_dark" alt="GitHub Stats">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=alhexmbs&theme=blueberry_duo" alt="GitHub Streak">
-|---|---|
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alhexmbs&layout=compact&theme=github_dark" alt="Top Languages">|
+## 📊 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alhexmbs&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alhexmbs&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" alt="Most Used Languages" height="180"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alhexmbs&theme=github-compact&hide_border=true&bg_color=0D1117" alt="GitHub Activity Graph" width="100%"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=alhexmbs&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+</div>
