@@ -1,13 +1,21 @@
+<!-- Banner principal -->
 <div align="center">
-  <img src="https://i.pinimg.com/originals/d8/82/8d/d8828d2d6254273a617e6337d292303d.gif" alt="Header Banner" width="100%" style="border-radius: 30px;">
+  <img src="https://i.pinimg.com/originals/d8/82/8d/d8828d2d6254273a617e6337d292303d.gif" 
+       alt="Header Banner" 
+       width="100%" 
+       style="border-radius: 20px; max-height: 300px; object-fit: cover;">
 </div>
 
 <h1 align="center">Hi, I'm Alex Burga <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+<!-- Texto animado -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=MedievalSharp&color=aqua&size=25&center=true&vCenter=true&width=600&height=100&lines=Systems+Engineering+Student;Lifelong+Learning;Open+Source+Contributor;Passionate+About+Technology">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Edu+NSW+ACT+Hand+Cursive&color=aqua&size=25&center=true&vCenter=true&width=600&height=100&lines=Systems+Engineering+Student;Lifelong+Learning;Open+Source+Contributor;Passionate+About+Technology">
   </a>
 </p>
+
+
 
 ## 🕵️‍♀️ A little bit about me
 - 🎓 I'm a Systems Engineering student at the Santo Toribio de Mogrovejo Catholic University in Peru
@@ -15,8 +23,15 @@
 - 🌱 I'm currently developing backend projects in NestJS and learning some Go
 - 📫 Get in touch with me: <a href="mailto:alhexmbs@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-alhexmbs@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail Badge"></a>
 
-## 🛠️ Tech stack
 
+<!-- Imagen decorativa -->
+<div align="center">
+  <img src="https://i.pinimg.com/1200x/87/1a/4a/871a4a613098cc95015ab11c488a205a.jpg" width="100" alt="Decorative">
+</div>
+
+
+
+## 🛠️ Tech stack
 <div align="center">
 
 ### Programming languages
@@ -42,11 +57,11 @@
 
 ### Data science & analytics
 <p>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="48" height="48"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="Pandas" width="48" height="48"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="NumPy" width="48" height="48"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=sklearn" alt="Scikit-learn" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="48" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="48" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="48" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="48" />
+  <img src="https://skillicons.dev/icons?i=sklearn" />
 </p>
 
 ### Tools & others
@@ -56,9 +71,20 @@
 
 </div>
 
-## 📊 My GitHub activity
+---
 
+<!-- Segunda imagen reducida -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alhexmbs&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117" alt="GitHub stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alhexmbs&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" alt="Most used languages" height="180"/>
+  <img src="https://i.pinimg.com/1200x/81/59/e0/8159e00bf1b72ec93bce8e002d9edc72.jpg" 
+       alt="Decorative Banner" 
+       width="100%" 
+       style="border-radius: 20px; max-height: 250px; object-fit: cover;">
+</div>
+
+---
+
+## 📊 My GitHub activity
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alhexmbs&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alhexmbs&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" height="180"/>
 </div>
