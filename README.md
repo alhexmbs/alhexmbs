@@ -56,7 +56,7 @@
 
 </div>
 
-## 📊 GitHub activity
+## 📊 My GitHub activity
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alhexmbs&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117" alt="GitHub stats" height="180"/>
