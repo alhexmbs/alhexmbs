@@ -26,7 +26,7 @@
 
 <!-- Imagen decorativa -->
 <div align="center">
-  <img src="https://i.pinimg.com/originals/4c/47/68/4c4768c61aaebaa6e5166ddf776e5639.gif" width="100" alt="Decorative">
+  <img src="https://i.pinimg.com/originals/4c/47/68/4c4768c61aaebaa6e5166ddf776e5639.gif" width="150" alt="Decorative">
 </div>
 
 
