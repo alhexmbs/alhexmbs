@@ -36,7 +36,7 @@
 
 ### Programming languages
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cs,golang" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,golang" alt="Languages" />
 </p>
 
 ### Frontend
@@ -46,7 +46,7 @@
 
 ### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring,dotnet" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" alt="Backend" />
 </p>
 
 ### Databases
