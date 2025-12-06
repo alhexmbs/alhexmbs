@@ -24,13 +24,6 @@
 - 📫 Get in touch with me: <a href="mailto:alhexmbs@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-alhexmbs@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail Badge"></a>
 
 
-<!-- Imagen decorativa -->
-<div align="center">
-  <img src="https://i.pinimg.com/originals/4c/47/68/4c4768c61aaebaa6e5166ddf776e5639.gif" width="150" alt="Decorative">
-</div>
-
-
-
 ## 🛠️ Tech stack
 <div align="center">
 
