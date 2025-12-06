@@ -3,7 +3,7 @@
   <img src="https://i.pinimg.com/originals/d8/82/8d/d8828d2d6254273a617e6337d292303d.gif" 
        alt="Header Banner" 
        width="100%" 
-       style="border-radius: 20px; max-height: 200px; object-fit: cover;">
+       style="border-radius: 20px; max-height: 100px; object-fit: cover;">
 </div>
 
 <h1 align="center">Hi, I'm Alex Burga <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
@@ -62,16 +62,6 @@
   <img src="https://skillicons.dev/icons?i=git,github,postman,aws,docker,linux" alt="Tools" />
 </p>
 
-</div>
-
----
-
-<!-- Segunda imagen reducida -->
-<div align="center">
-  <img src="https://i.pinimg.com/1200x/81/59/e0/8159e00bf1b72ec93bce8e002d9edc72.jpg" 
-       alt="Decorative Banner" 
-       width="100%" 
-       style="border-radius: 20px; max-height: 250px; object-fit: cover;">
 </div>
 
 ---
