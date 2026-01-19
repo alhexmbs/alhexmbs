@@ -3,7 +3,7 @@
 <!-- Texto animado -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Edu+NSW+ACT+Hand+Cursive&color=aqua&size=25&center=true&vCenter=true&width=600&height=100&lines=Systems+Engineering+Student;Lifelong+Learning;Passionate+About+Technology;Learning+things+I’ll+Google+again+tomorrow">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Edu+NSW+ACT+Hand+Cursive&color=aqua&size=25&center=true&vCenter=true&width=600&height=100&lines=Lifelong+Learning;Passionate+About+Technology;Learning+things+I’ll+Google+again+tomorrow">
   </a>
 </p>
 
