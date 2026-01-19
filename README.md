@@ -1,14 +1,12 @@
 <div align="center">
 <img src="https://i.pinimg.com/736x/fc/e9/f5/fce9f51832af549137a90b98d741d522.jpg" width="25%" align="right" />
 <h1 align="center">Hi, I'm Alex Burga <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<br><br>
 <pre>
-    💼 Backend, data and cloud
-    🎮 Music • Games • Anime • Code • Art
-    🐾 Muffin 🐰 • Cake & Cookie & Pudim & Quindim 🐤🐥
+    💼 Backend • Data • Cloud
+    🎶 Music • Games • Code
 </pre>
 <br>
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanN0ZGl4dmk4cjcyMHNmaW1tZHdqOHRzZWVyenMwMzI5bzM2eWdkZSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Fh5z2XyhrXgvpyfnRI/giphy.gif" height="40" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWx4YmN6czMzY3dyZWs3MnhyYWtmZHZ0eXp4cmF0cDRzYmV6OTQyMiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/VeTIkcoBeync63rDWy/giphy.gif" height="80" />
 <br><br>
 
 ## 🛠️ Tech stack
