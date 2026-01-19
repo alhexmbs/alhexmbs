@@ -42,7 +42,7 @@
 
 ### Tools & others
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,aws,docker,linux" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,aws,docker,linux,neovim" alt="Tools" />
 </p>
 
 </div>
