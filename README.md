@@ -16,11 +16,21 @@
 
 ## 🛠️ Tech Stack
 
-### 🚀 Languages & Backend
-[![My Skills](https://skillicons.dev/icons?i=golang,nestjs,ts,js,python,nodejs,express)](https://skillicons.dev)
+### Languages
+[![My Skills](https://skillicons.dev/icons?i=js,ts,python,golang)](https://skillicons.dev)
 
-### 💾 Databases & Infrastructure
-[![My Skills](https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,docker,aws,linux,neovim)](https://skillicons.dev)
+### Backend
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs)](https://skillicons.dev)
+
+### Databases
+[![My Skills](https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite)](https://skillicons.dev)
+
+### Infrastructure
+[![My Skills](https://skillicons.dev/icons?i=docker,aws)](https://skillicons.dev)
+
+### Tools
+[![My Skills](https://skillicons.dev/icons?i=linux,neovim,postman,git,github)](https://skillicons.dev)
+
 
 ### 📊 Data Science & Analytics
 <p align="center">
@@ -35,7 +45,5 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,vue,figma)](https://skillicons.dev)
 
 ---
-
-<img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=tokyonight&hide_border=true&align=center" alt="GitHub Stats" />
 
 </div>
