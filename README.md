@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Computer+Mouse.png" width="20%" align="right" />
+<img src="https://github.com/innng/innng/assets/26755058/5e0ce0fb-c544-4f8c-a307-5849165746d0" width="25%" align="right" />
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=600&size=45&duration=3000&pause=1000&color=A7A459&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=120&lines=Hi%2C+I'm+Alex+Burga;Backend+%26+Data+Engineer;Always+learning+new+things" width="75%" />
 
 <br><br>
