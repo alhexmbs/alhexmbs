@@ -3,7 +3,7 @@
 <!-- Texto animado -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Edu+NSW+ACT+Hand+Cursive&color=aqua&size=25&center=true&vCenter=true&width=700&height=100&lines=Bug+producer;99%25+coffee;Hello+World+expert;Trust+me,+I'm+an+engineer;Sleep+is+optional" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Edu+NSW+ACT+Hand+Cursive&color=aqua&size=25&center=true&vCenter=true&width=700&height=100&lines=Pura+fe;" />
   </a>
 </p>
 
@@ -27,8 +27,7 @@
 
 ### Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb" alt="Databases" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,sqlite" alt="Databases" />
 </p>
 
 ### Data science & analytics
