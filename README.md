@@ -2,9 +2,7 @@
 
 <!-- Texto animado -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Edu+NSW+ACT+Hand+Cursive&color=aqua&size=25&center=true&vCenter=true&width=700&height=100&lines=Pura+fe;" />
-  </a>
+  bruh!
 </p>
 
 ## 🛠️ Tech stack
